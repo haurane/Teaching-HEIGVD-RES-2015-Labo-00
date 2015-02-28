@@ -13,6 +13,7 @@ import org.junit.Test;
  * 
  * @author Olivier Liechti
  */
+
 public class TrumpetTest {
 
   
